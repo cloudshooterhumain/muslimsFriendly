@@ -17,3 +17,6 @@ https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&
 # Early stage shares: 10%
 
 
+# Current budget: 300 euros
+
+
