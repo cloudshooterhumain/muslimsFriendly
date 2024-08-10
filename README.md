@@ -1,4 +1,5 @@
 # muslimsFriendly MVP
+Racism is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
 
 # Pitch deck
 https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content=DAGNAGVDUJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
