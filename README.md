@@ -19,7 +19,7 @@ https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&
 
 KMP & Compose
 
-# Marketing (Next step) 🚀
+# Marketing 🚀
 Our secret
 
 # Donate ;) 💰
