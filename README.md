@@ -20,9 +20,11 @@ https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content
 ![image](https://github.com/user-attachments/assets/a720db67-23c7-4a26-bf25-6ba830039e28)
 https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&t=ozgvBoBCdgZMrE9o-0
 
-# Branding
+# Branding (we will use Mastodon model)
 logo (WIP) color and animal
+
 video presentation (TODO)
+
 e-commerce stuff (WIP)
 
 # Mobile App (Next step) 🧑‍💻
