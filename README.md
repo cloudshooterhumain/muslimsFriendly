@@ -25,4 +25,4 @@ https://www.patreon.com/muslimsFriendly
 
 # Current budget: 300 euros 🏦
 
-
+# Hiring
