@@ -25,7 +25,7 @@ logo (WIP) color and animal
 
 video presentation (TODO)
 
-e-commerce stuff (WIP)
+e-commerce stuff for patreon (WIP)
 
 # Mobile App (Next step) 🧑‍💻
 
