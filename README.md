@@ -17,8 +17,8 @@ https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&
 
 # Marketing (TODO)
 
-# Donate (TODO)
-patreon.com/muslimsFriendly
+# Donate ;) 
+https://www.patreon.com/muslimsFriendly
 
 # Current budget: 300 euros
 
