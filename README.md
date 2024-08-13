@@ -45,3 +45,5 @@ https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&
 # Current budget: 300 euros 🏦 (next steep : rising)
 
 # Hiring
+
+selassi.abdellah@gmail.com
