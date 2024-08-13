@@ -39,9 +39,9 @@ Our secret
 # Donate ;) 💰
 https://www.patreon.com/muslimsFriendly
 
-# Chat
+# Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
 
-# Current budget: 300 euros 🏦
+# Current budget: 300 euros 🏦 (next steep : rising)
 
 # Hiring
