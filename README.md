@@ -4,7 +4,7 @@
 
 # Huumble MVP 🙌
 
-Rac**m is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
+Immigrant Integration is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
 
 Our team is developing a product designed to bring joy and inclusivity to the Muslim community, ensuring that everyone, regardless of economic status, can find places where they feel accepted and treated equally. We aim to create environments where people can enjoy time with their friends and family without the fear of discrimination.
 
