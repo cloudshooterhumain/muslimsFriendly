@@ -21,15 +21,20 @@ https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content
 https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&t=ozgvBoBCdgZMrE9o-0
 
 # Branding (we will use Mastodon model)
-logo (WIP) color and creation by color expert.
 
-video presentation (TODO)
+| Tech stack                 | Status             | By                 |
+| -------------------------- |:-------------------|:------------------:|
+| logo color and creation    | WIP                | colorimetry expert |
+| video presentation         | price estimation   | Amy K. Agency      |
+| e-commerce package Pateron | Stand by           |                    |
 
-e-commerce stuff for patreon (WIP)
 
 # Mobile App (Next step) 🧑‍💻
 
-KMP & Compose
+| Tech stack                 | Status             |
+| -------------------------- |:------------------:|
+| KMP & Compose              | price estimation   |
+
 
 # Marketing 🚀
 Our secret
