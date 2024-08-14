@@ -31,9 +31,9 @@ https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&
 
 # Mobile App (Next step) 🧑‍💻
 
-| Tech stack                 | Status             |
-| -------------------------- |:------------------:|
-| KMP & Compose              | price estimation   |
+| Tech stack                 | Status             | By                 |
+| -------------------------- |:------------------:|:------------------:|
+| KMP & Compose              | price estimation   | Ahmed A.           |
 
 
 # Marketing 🚀
