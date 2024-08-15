@@ -1,5 +1,5 @@
 <div align="center">
-<image src="https://github.com/cloudshooterhumain/muslimsFriendly/blob/main/branch-with-leaves.png" width="200" height="200" align="center"></image>
+<image src="https://github.com/user-attachments/assets/190d61ea-5f86-4fe3-98fd-1d68a67bd9c7" />
 </div>
 
 # Huumble MVP 🙌
@@ -16,7 +16,7 @@ We believe this project has the potential not only to offer financial returns bu
 https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content=DAGNAGVDUJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Design (WIP) 👩‍🎨
-![image](https://github.com/user-attachments/assets/fe46082c-722a-4a1e-bc69-b993ad410a3d)
+![image](https://github.com/user-attachments/assets/bc28e0e1-8ed5-4f38-af01-c252904b681f)
 
 https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&t=ozgvBoBCdgZMrE9o-0
 
