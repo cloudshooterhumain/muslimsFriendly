@@ -15,7 +15,7 @@ We believe this project has the potential not only to offer financial returns bu
 # Pitch deck 🎒
 https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content=DAGNAGVDUJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-# Design (WIP) 👩‍🎨
+# Design 👩‍🎨
 ![image](https://github.com/user-attachments/assets/bc28e0e1-8ed5-4f38-af01-c252904b681f)
 
 https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&t=ozgvBoBCdgZMrE9o-0
