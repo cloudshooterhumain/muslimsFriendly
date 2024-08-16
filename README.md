@@ -21,7 +21,7 @@ We believe this project has the potential not only to offer financial returns bu
 # Pitch deck 🎒
 ![Huumble](https://github.com/user-attachments/assets/a440c2e2-62a5-4d42-9845-727f09fc4fb6)
 
-[Link to petch deck](https://www.canva.com/design/DAGNAGVDUJM/NFrpM-kQn71_7rzvDpzPQw/view)
+[pitch deck link](https://www.canva.com/design/DAGNAGVDUJM/NFrpM-kQn71_7rzvDpzPQw/view)
 
 # Design 👩‍🎨
 ![image](https://github.com/user-attachments/assets/bc28e0e1-8ed5-4f38-af01-c252904b681f)
