@@ -40,7 +40,7 @@ We believe this project has the potential not only to offer financial returns bu
 
 | Tech stack                 | Status             | By                 |
 | -------------------------- |:------------------:|:------------------:|
-| KMP & Compose              | price estimation   | Ahmed A.           |
+| KMP & Compose              | price estimation   | Upwork             |
 
 
 # Marketing 🚀
