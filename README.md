@@ -4,12 +4,18 @@
 
 # Huumble MVP 🙌
 
+### Problem
 Immigrant Integration is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
 
+### Mission
+Our mission is to bring joy to muslims in EU.
+
+### The team
 Our team is developing a product designed to bring joy and inclusivity to the Muslim community, ensuring that everyone, regardless of economic status, can find places where they feel accepted and treated equally. We aim to create environments where people can enjoy time with their friends and family without the fear of discrimination.
 
 Our team comprises an IT engineer with a decade of experience (ex Nespresso ☕ , Coyote 🐅, Ingenico 📱, Natixis 🏦, Veolia 🏗️, Mastodon 🐘 (twitter concurrent) voluntary) and a co-founder who brings over 45 years of expertise in the restaurant and wedding events industry. We are currently in the process of designing our MVP.
 
+### Hint to Investisor
 We believe this project has the potential not only to offer financial returns but also to make a meaningful difference in the community, particularly across Europe. If this aligns with your investment interests, we would love to discuss this further.
 
 # Pitch deck 🎒
@@ -18,11 +24,10 @@ https://www.canva.com/design/DAGNAGVDUJM/w8b2E9cekhm0H6WSSzHDRQ/edit?utm_content
 # Design 👩‍🎨
 ![image](https://github.com/user-attachments/assets/bc28e0e1-8ed5-4f38-af01-c252904b681f)
 
-https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&t=ozgvBoBCdgZMrE9o-0
 
 # Branding (we will use Mastodon model)
 
-| Tech stack                 | Status             | By                 |
+|                            | Status             | By                 |
 | -------------------------- |:-------------------|:------------------:|
 | logo color and creation    | WIP                | colorimetry expert |
 | video presentation         | price estimation   | Amy K. Agency      |
@@ -37,9 +42,9 @@ https://www.figma.com/design/0HItxpZYmk4LinxXXD9Q1N/Muslim-Friendly?node-id=1-2&
 
 
 # Marketing 🚀
-Our secret
+Our secret!
 
-# Donate ;) 💰
+# Donate 💰
 https://www.patreon.com/huumble
 
 # Chat 📣
