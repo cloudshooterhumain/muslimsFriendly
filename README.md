@@ -1,5 +1,5 @@
 <div align="center">
-<image src="https://github.com/user-attachments/assets/190d61ea-5f86-4fe3-98fd-1d68a67bd9c7" />
+<image src="https://github.com/user-attachments/assets/039093fa-7eba-4e1a-8b82-a9ea4f3a0812" />
 </div>
 
 # Huumble MVP 🙌
