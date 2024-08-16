@@ -51,8 +51,3 @@ https://www.patreon.com/huumble
 
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
-
-
-# Hiring (freelancer only)
-
-selassi.abdellah@gmail.com
