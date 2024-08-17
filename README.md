@@ -43,7 +43,7 @@ We believe this project has the potential not only to offer financial returns bu
 | KMP & Compose              | price estimation   | Upwork             |
 
 
-# Marketing 🚀
+# business model 🚀
 Our secret!
 
 # Donate 💰
