@@ -8,10 +8,10 @@
 Immigrant Integration is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
 
 ### Mission
-Our mission is to bring joy to muslims in EU.
+Our mission is to bring joy to maghrbens in EU.
 
 ### The team
-Our team is developing a product designed to bring joy and inclusivity to the Muslim community, ensuring that everyone, regardless of economic status, can find places where they feel accepted and treated equally. We aim to create environments where people can enjoy time with their friends and family without the fear of discrimination.
+Our team is developing a product designed to bring joy and inclusivity to the Maghreb people, ensuring that everyone, regardless of economic status, can find places where they feel accepted and treated equally. We aim to create environments where people can enjoy time with their friends and family without the fear of discrimination.
 
 Our team comprises an IT engineer with a decade of experience (ex Nespresso ☕ , Coyote 🐅, Ingenico 📱, Natixis 🏦, Veolia 🏗️, Mastodon 🐘 (twitter concurrent) voluntary) and a co-founder who brings over 45 years of expertise in the restaurant and wedding events industry. We are currently in the process of designing our MVP.
 
