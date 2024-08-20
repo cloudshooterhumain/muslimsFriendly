@@ -51,5 +51,3 @@ https://www.patreon.com/huumble
 
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
-
-(MVP)[https://pages.github.com/](https://annycedavis.com/2022/05/talk-the-real-mvp.html]
