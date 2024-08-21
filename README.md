@@ -44,7 +44,7 @@ We believe this project has the potential not only to offer financial returns bu
 # business model 🚀
 Our secret!
 
-# [Donate](https://buy.stripe.com/test_14k01G0Kw2kP5iMcMM) 💰
+# [Donate](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰
 
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
