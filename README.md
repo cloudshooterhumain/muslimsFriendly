@@ -19,8 +19,6 @@ Our team comprises an IT engineer with a decade of experience (ex Nespresso ☕ 
 We believe this project has the potential not only to offer financial returns but also to make a meaningful difference in the community, particularly across Europe. If this aligns with your investment interests, we would love to discuss this further.
 
 # Pitch deck 🎒
-![Huumble](https://github.com/user-attachments/assets/a440c2e2-62a5-4d42-9845-727f09fc4fb6)
-
 [pitch deck link](https://www.canva.com/design/DAGNAGVDUJM/NFrpM-kQn71_7rzvDpzPQw/view)
 
 # Design 👩‍🎨
