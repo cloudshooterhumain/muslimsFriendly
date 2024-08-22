@@ -46,8 +46,8 @@ We believe this project has the potential not only to offer financial returns bu
 # business model 🚀
 Our secret!
 
-# [Donate 1 euro can make the difference](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰 300 euros
-![image](https://github.com/user-attachments/assets/19385873-f423-47a5-9649-1c1fc1bd9c5b)
+# [Donate] 💰 300 euros rised.
+
 
 Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned.
 
