@@ -42,7 +42,7 @@ We believe this project has the potential not only to offer financial returns bu
 # business model 🚀
 Our secret!
 
-# [Donate](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰 300 euros
+# [Donate 1 euro can make the difference](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰 300 euros
  ## مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً ۚ وَاللَّهُ يَقْبِضُ وَيَبْسُطُ
 
 # Chat 📣
