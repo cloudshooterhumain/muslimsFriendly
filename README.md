@@ -5,7 +5,11 @@
 # Huumble MVP  🙌
 
 ### Problem
-Immigrant Integration is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome. 
+Immigrant Integration is a significant challenge, but with the right solutions, we believe it is something we can address and ultimately overcome.
+examples: 
+- Friends and families, avoid many places (restaurant and coffee) to avoid the "see from the above".
+- Sometimes, when we are with our French friends we struggle to find a place when we find what we can expect.
+ 
 
 ### Mission
 Our mission is to bring joy to maghrbens in EU.
