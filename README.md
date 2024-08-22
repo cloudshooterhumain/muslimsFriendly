@@ -32,7 +32,7 @@ We believe this project has the potential not only to offer financial returns bu
 |                            | Status             | By                 |
 | -------------------------- |:-------------------|:------------------:|
 | logo color and creation    | WIP                | colorimetry expert |
-| video presentation         | price estimation   | Upwork             |
+| video brand                | price estimation   | Upwork             |
 | e-commerce package Pateron | Stand by           |                    |
 
 
