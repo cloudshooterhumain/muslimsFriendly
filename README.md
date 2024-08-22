@@ -43,7 +43,10 @@ We believe this project has the potential not only to offer financial returns bu
 Our secret!
 
 # [Donate 1 euro can make the difference](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰 300 euros
- ## مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً ۚ وَاللَّهُ يَقْبِضُ وَيَبْسُطُ
+![image](https://github.com/user-attachments/assets/19385873-f423-47a5-9649-1c1fc1bd9c5b)
+
+Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned.
+
 
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
