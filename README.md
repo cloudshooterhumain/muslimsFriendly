@@ -48,8 +48,5 @@ Our secret!
 
 # [Donate 1euro can make the difference](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰 300 euros
 
-Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned.
-
-
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
