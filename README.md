@@ -32,7 +32,7 @@ We believe this project has the potential not only to offer financial returns bu
 |                            | Status             | By                 |
 | -------------------------- |:-------------------|:------------------:|
 | logo color and creation    | WIP                | colorimetry expert |
-| video brand                | price estimation   | Upwork             |
+| video brand                | price estimation   | Freelance          |
 | e-commerce package Pateron | Stand by           |                    |
 
 
@@ -40,7 +40,7 @@ We believe this project has the potential not only to offer financial returns bu
 
 | Tech stack                 | Status             | By                 |
 | -------------------------- |:------------------:|:------------------:|
-| KMP & Compose              | dev in progress    | Upwork             |
+| KMP & Compose              | dev in progress    | Freelance          |
 
 
 # business model 🚀
