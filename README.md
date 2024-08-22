@@ -23,8 +23,6 @@ We believe this project has the potential not only to offer financial returns bu
 
 # Design 👩‍🎨
 ![image](https://github.com/user-attachments/assets/bc28e0e1-8ed5-4f38-af01-c252904b681f)
-
-
 # Branding (we will use Mastodon model)
 
 |                            | Status             | By                 |
@@ -45,6 +43,7 @@ We believe this project has the potential not only to offer financial returns bu
 Our secret!
 
 # [Donate](https://buy.stripe.com/bIY6sc0IRa0G0tW7ss) 💰
+ ## مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً ۚ وَاللَّهُ يَقْبِضُ وَيَبْسُطُ
 
 # Chat 📣
 https://www.patreon.com/messages/eb18cc87510341dbb5187f17e394b298?mode=campaign&tab=chats
