@@ -36,7 +36,7 @@ We believe this project has the potential not only to offer financial returns bu
 
 | Tech stack                 | Status             | By                 |
 | -------------------------- |:------------------:|:------------------:|
-| KMP & Compose              | price estimation   | Upwork             |
+| KMP & Compose              | dev in progress    | Upwork             |
 
 
 # business model 🚀
